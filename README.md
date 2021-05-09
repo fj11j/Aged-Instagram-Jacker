@@ -8,7 +8,7 @@ HOW TO USE:
 
 4. Enter your proxies into proxies.txt
 
-5. Open checkemails_webhooks.py
+5. Open check_emails_-_webhooks.py
 
 6. Enter the amount of threads (7-12 is recommended based on your proxies)
 
