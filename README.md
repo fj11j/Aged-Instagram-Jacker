@@ -8,10 +8,14 @@ HOW TO USE:
 
 4. Enter your proxies into proxies.txt
 
-5. Open check_emails_-_webhooks.py
+5. Open check_emails_-_webhooks.py in any type of IDE
 
-6. Enter the amount of threads (7-12 is recommended based on your proxies)
+6. Go to line 18 and add your discord webhook
 
-7. Wait for it to finish!!
+7. Open check_emails_-_webhooks.py
+
+8. Enter the amount of threads (7-12 is recommended based on your proxies)
+
+9. Wait for it to finish!!
 
 API#1337 if any problems!!
