@@ -18,4 +18,4 @@ HOW TO USE:
 
 9. Wait for it to finish!!
 
-API#1337 if any problems!!
+Kettle#1337 if any problems!!
